@@ -52,6 +52,3 @@ Future updates on the code have been moved to a seperate repository that is now 
 If you believe this is "illegal or is violating the GPLv3" license, I request you come to @OnePunchSupport on telegram WITH your lawyer to discuss the same.
 Good day! 
 
-## Credits 📍
-* Well, it's all in the commit history
-Feel free to open pull requests should any be missing.
